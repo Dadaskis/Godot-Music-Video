@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/1.mp3-fd911ef273ad7077bb53dbe754c8cc95.mp3str"
+
+[deps]
+
+source_file="res://data/rp_aneurism_v2/samples/1.mp3"
+dest_files=[ "res://.import/1.mp3-fd911ef273ad7077bb53dbe754c8cc95.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

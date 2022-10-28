@@ -1,0 +1,11 @@
+[gd_resource type="Resource" load_steps=4 format=2]
+
+[ext_resource path="res://src/music_data.gd" type="Script" id=1]
+[ext_resource path="res://data/gm_praetorian_backrooms/textures/2.jpg" type="Texture" id=2]
+[ext_resource path="res://data/gm_praetorian_backrooms/samples/2.mp3" type="AudioStream" id=3]
+
+[resource]
+script = ExtResource( 1 )
+text_name = "ambient_music_0"
+sample = ExtResource( 3 )
+image = ExtResource( 2 )

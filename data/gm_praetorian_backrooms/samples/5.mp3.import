@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/5.mp3-b237ddc251f3a53c63d35a199e033750.mp3str"
+
+[deps]
+
+source_file="res://data/gm_praetorian_backrooms/samples/5.mp3"
+dest_files=[ "res://.import/5.mp3-b237ddc251f3a53c63d35a199e033750.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
